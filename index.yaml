@@ -9,6 +9,6 @@ entries:
     name: nginx-ip-app
     type: application
     urls:
-    - https://marolio.github.io/helm-charts/nginx-ip-app-0.1.0.tgz
+    - https://github.com/marolio/helm-charts/blob/main/nginx-ip-app-0.1.0.tgz
     version: 0.1.0
 generated: "2025-04-01T09:03:43.074910595-07:00"
