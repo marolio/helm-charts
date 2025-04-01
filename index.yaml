@@ -3,12 +3,12 @@ entries:
   nginx-ip-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-01T09:03:43.075475304-07:00"
+    created: "2025-04-01T09:16:22.321805076-07:00"
     description: A Helm chart for Kubernetes
     digest: 05cbecc69485150cf9352fed42215eb268895b4da0d845d9048c9b8dd0a58619
     name: nginx-ip-app
     type: application
     urls:
-    - https://github.com/marolio/helm-charts/blob/main/nginx-ip-app-0.1.0.tgz
+    - https://marolio.github.io/helm-charts/nginx-ip-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-01T09:03:43.074910595-07:00"
+generated: "2025-04-01T09:16:22.321298036-07:00"
